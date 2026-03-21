@@ -14,21 +14,21 @@ This application provides actionable insights into purchasing trends, helping ho
 
 ---
 
-## ✨ Features
+## Features
 
-### 📊 Data Visualization
+### Data Visualization
 
 - **Interactive Charts**: Powered by **[Chart.js](https://www.chartjs.org/)**, visualize the top 10 herbal medicines by total purchase value.
 - **Dynamic Summaries**: Real-time summary cards displaying high-level metrics for the selected fiscal year.
 
-### ⚡️ Core Stack
+### Core Stack
 
 - **[Vue 3.5+](https://vuejs.org/)**: Utilizing the Composition API with `<script setup>` for concise and performant components.
 - **[TypeScript 5.9+](https://www.typescriptlang.org/)**: Configured for type safety and developer productivity.
 - **[Vite 7](https://vitejs.dev/)**: Next-generation frontend tooling with instant server start and lightning-fast HMR.
 - **[Tailwind CSS 4.1](https://tailwindcss.com/)**: Utility-first CSS framework for rapid UI development.
 
-### 🧩 Architecture
+### Architecture
 
 - **[Pinia](https://pinia.vuejs.org/)**: Intuitive, type-safe state management for handling data fetching and filtering logic.
 - **Google Sheets Backend**: A lightweight, maintenance-free backend using **Google Apps Script** to serve data directly from Google Sheets.
@@ -36,7 +36,7 @@ This application provides actionable insights into purchasing trends, helping ho
 
 ---
 
-## 💻 IDE Setup
+## IDE Setup
 
 For the best experience, we recommend **[VS Code](https://code.visualstudio.com/)** with the following configuration:
 
@@ -50,7 +50,7 @@ For the best experience, we recommend **[VS Code](https://code.visualstudio.com/
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Ensure your environment meets the following requirements:
 
@@ -61,7 +61,7 @@ Ensure your environment meets the following requirements:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -88,7 +88,7 @@ The application will be available at `http://localhost:5173/`.
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Script         | Description                               |
 | :------------- | :---------------------------------------- |
@@ -100,7 +100,7 @@ The application will be available at `http://localhost:5173/`.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -123,7 +123,7 @@ The application will be available at `http://localhost:5173/`.
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 ### Static Hosting (Vercel, Netlify, etc.)
 
@@ -135,7 +135,7 @@ This project builds a static SPA.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1.  **Fork** the repository.
 2.  **Create** a feature branch: `git checkout -b feat/my-feature`.
@@ -145,6 +145,6 @@ This project builds a static SPA.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
