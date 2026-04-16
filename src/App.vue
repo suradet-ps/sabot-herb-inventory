@@ -17,7 +17,7 @@ function getCurrentThaiFiscalYear(): number {
 
   // ถ้าเดือน >= ต.ค. (9) ให้ถือเป็นปีงบประมาณหน้า (AD)
   const fiscalYearAD = month >= 9 ? yearAD + 1 : yearAD;
-  
+
   // แปลงเป็น พ.ศ. (+543)
   return fiscalYearAD + 543;
 }
