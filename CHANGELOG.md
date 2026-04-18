@@ -1,3 +1,9 @@
+## [1.1.5](https://github.com/pharmacist-sabot/sabot-herb-inventory/compare/v1.1.4...v1.1.5) (2026-04-18)
+
+### 📦 Dependency Updates
+
+* **deps:** update dependency @types/node to v25 ([#9](https://github.com/pharmacist-sabot/sabot-herb-inventory/issues/9)) ([fd9d878](https://github.com/pharmacist-sabot/sabot-herb-inventory/commit/fd9d878c265d1380e510f5ac81a7853024d73212))
+
 ## [1.1.4](https://github.com/pharmacist-sabot/sabot-herb-inventory/compare/v1.1.3...v1.1.4) (2026-04-18)
 
 ### 📦 Dependency Updates
