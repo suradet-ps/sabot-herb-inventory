@@ -1,3 +1,9 @@
+## [1.1.6](https://github.com/pharmacist-sabot/sabot-herb-inventory/compare/v1.1.5...v1.1.6) (2026-04-18)
+
+### 📦 Dependency Updates
+
+* **deps:** update dependency vite to v8 ([#13](https://github.com/pharmacist-sabot/sabot-herb-inventory/issues/13)) ([6a26da3](https://github.com/pharmacist-sabot/sabot-herb-inventory/commit/6a26da384d0955b1e48553d3e4d1d374d429c7be))
+
 ## [1.1.5](https://github.com/pharmacist-sabot/sabot-herb-inventory/compare/v1.1.4...v1.1.5) (2026-04-18)
 
 ### 📦 Dependency Updates
