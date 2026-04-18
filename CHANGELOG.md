@@ -1,3 +1,11 @@
+## [1.1.4](https://github.com/pharmacist-sabot/sabot-herb-inventory/compare/v1.1.3...v1.1.4) (2026-04-18)
+
+### 📦 Dependency Updates
+
+* **deps:** update actions/checkout action to v6.0.2 ([#7](https://github.com/pharmacist-sabot/sabot-herb-inventory/issues/7)) ([6a4a3eb](https://github.com/pharmacist-sabot/sabot-herb-inventory/commit/6a4a3ebf27f2fb75a0bd07eb07513d0c7c80b036))
+* fix HTML formatting for font link ([853b977](https://github.com/pharmacist-sabot/sabot-herb-inventory/commit/853b977e8bce0473415a44c27c2be0cb428880b5))
+* **package:** update dependencies to latest versions ([bd9a610](https://github.com/pharmacist-sabot/sabot-herb-inventory/commit/bd9a610b99687ed622cdcf0e4abf49c561b00ae6))
+
 ## [1.1.3](https://github.com/pharmacist-sabot/sabot-herb-inventory/compare/v1.1.2...v1.1.3) (2026-04-16)
 
 ### 📦 Dependency Updates
