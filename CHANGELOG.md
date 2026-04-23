@@ -1,3 +1,9 @@
+## [1.1.8](https://github.com/suradet-ps/sabot-herb-inventory/compare/v1.1.7...v1.1.8) (2026-04-23)
+
+### 📦 Dependency Updates
+
+* **deps:** update dependency eslint-plugin-format to v2 ([#11](https://github.com/suradet-ps/sabot-herb-inventory/issues/11)) ([e6bf195](https://github.com/suradet-ps/sabot-herb-inventory/commit/e6bf1950031a843a34f6cc3f60870fad80c1e190))
+
 ## [1.1.7](https://github.com/suradet-ps/sabot-herb-inventory/compare/v1.1.6...v1.1.7) (2026-04-23)
 
 ### 📦 Dependency Updates
