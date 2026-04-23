@@ -66,7 +66,7 @@ Ensure your environment meets the following requirements:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/pharmacist-sabot/sabot-herb-inventory.git
+git clone https://github.com/suradet-ps/sabot-herb-inventory.git
 cd sabot-herb-inventory
 ```
 
