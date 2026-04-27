@@ -1,3 +1,13 @@
+## [1.1.9](https://github.com/suradet-ps/sabot-herb-inventory/compare/v1.1.8...v1.1.9) (2026-04-27)
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency vue-router to v5 ([#14](https://github.com/suradet-ps/sabot-herb-inventory/issues/14)) ([ea1afd2](https://github.com/suradet-ps/sabot-herb-inventory/commit/ea1afd2f255e518e31f5eda1a8d4050ffed6212a))
+
+### 📦 Dependency Updates
+
+* update repository links to suradet-ps/sabot-herb-inventory ([553f66f](https://github.com/suradet-ps/sabot-herb-inventory/commit/553f66f2f3eb34b18e54145ff982ae4955a028b3))
+
 ## [1.1.8](https://github.com/suradet-ps/sabot-herb-inventory/compare/v1.1.7...v1.1.8) (2026-04-23)
 
 ### 📦 Dependency Updates
